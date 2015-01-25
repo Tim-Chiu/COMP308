@@ -1,0 +1,5 @@
+C:\Users\Tim Chiu\Desktop\PortfolioSite\PortfolioSite\bin\PortfolioSite.dll
+C:\Users\Tim Chiu\Desktop\PortfolioSite\PortfolioSite\bin\PortfolioSite.pdb
+C:\Users\Tim Chiu\Desktop\PortfolioSite\PortfolioSite\obj\Debug\PortfolioSite.csprojResolveAssemblyReference.cache
+C:\Users\Tim Chiu\Desktop\PortfolioSite\PortfolioSite\obj\Debug\PortfolioSite.dll
+C:\Users\Tim Chiu\Desktop\PortfolioSite\PortfolioSite\obj\Debug\PortfolioSite.pdb
