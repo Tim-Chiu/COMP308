@@ -62,7 +62,14 @@
     <Content Include="assets\x80.png" />
     <Content Include="assets\x90.png" />
     <Content Include="css\app.css" />
-    <Content Include="HomePage.html" />
+    <Content Include="css\foundation.min.css" />
+    <Content Include="css\normalize.css" />
+    <Content Include="index.html" />
+    <Content Include="humans.txt" />
+    <Content Include="robots.txt" />
+    <Content Include="Scripts\lib\app.js" />
+    <Content Include="Scripts\lib\foundation.min.js" />
+    <Content Include="Scripts\lib\jquery.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -76,9 +83,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Scripts\lib\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
