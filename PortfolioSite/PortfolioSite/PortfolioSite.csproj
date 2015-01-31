@@ -57,11 +57,27 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\x100.png" />
-    <Content Include="assets\x70.png" />
-    <Content Include="assets\x80.png" />
-    <Content Include="assets\x90.png" />
+    <Content Include="assets\images\background.jpg" />
+    <Content Include="assets\images\emailIcon.png" />
+    <Content Include="assets\images\facebookIcon.png" />
+    <Content Include="assets\images\linkedinIcon.png" />
+    <Content Include="assets\images\logo.png" />
+    <Content Include="assets\images\timchiu.png" />
+    <Content Include="assets\images\twitterIcon.png" />
+    <Content Include="assets\images\unity.png" />
+    <Content Include="assets\images\visualstudio.png" />
+    <Content Include="assets\images\wannaLogo.png" />
+    <Content Include="assets\images\x100.png" />
+    <Content Include="assets\images\x70.png" />
+    <Content Include="assets\images\x80.png" />
+    <Content Include="assets\images\x90.png" />
+    <Content Include="assets\images\youtubeIcon.png" />
+    <Content Include="aboutme.html" />
+    <Content Include="projects.html" />
+    <Content Include="skills.html" />
+    <Content Include="education.html" />
     <Content Include="css\app.css" />
+    <Content Include="css\foundation.css" />
     <Content Include="css\foundation.min.css" />
     <Content Include="css\normalize.css" />
     <Content Include="index.html" />
